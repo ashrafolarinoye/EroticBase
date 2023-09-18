@@ -46,7 +46,7 @@ a {
 
 a:hover {
     text-decoration: none;
-    color: var(--main-theme-color);
+    color: #000;
 }
 
 h1,
